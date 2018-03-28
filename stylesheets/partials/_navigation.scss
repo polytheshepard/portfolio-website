@@ -110,6 +110,9 @@ nav {
   ul {
     list-style-type: none;
   }
+  li {
+    margin: 15px 0;
+  }
   a {
     margin: 0.5em 0;
     padding: 0.2em 2em;
@@ -190,14 +193,4 @@ main {
   width: 1px;
 }
 
-body {
-  overflow-x: hidden;
-  background:  #fed3a2;
-  color: #fff;
-}
-
-main {
-  font-family: $raleway-font;
-  margin: 4em 5em;
-}
 
