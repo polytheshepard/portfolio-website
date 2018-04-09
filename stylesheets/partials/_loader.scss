@@ -10,7 +10,7 @@ html {
     width: 250px;
     background-color: #f8002f;
     display: block;
-    margin-top: 5%;
+    margin-top: 25%;
     margin-left: auto;
     margin-right: auto;
     animation: spin 2s linear infinite;
@@ -145,7 +145,7 @@ html {
     display: block;
     left: 70%;
     transform: translate(-50%, 50%);
-    margin-top: -0.8em;
+    margin-top: -1.8em;
     font-weight: 700;
     fill: none;
     position: absolute;
@@ -154,7 +154,7 @@ html {
 text {
     fill: #fff;
     stroke: #fff;
-    stroke-width: 3px;
+    stroke-width: 0.1px;
     stroke-dasharray: 1200;
     opacity: 1;
     animation: animate 2.5s cubic-bezier(0.38, 0.51, 0.96, 0.63) infinite;
